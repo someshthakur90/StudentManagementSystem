@@ -1,5 +1,6 @@
 <h1>Student Management System</h1>
 <h2>A web app in which you can add, delete, and update Student entries</h2>
+![Screenshot (182)](https://github.com/someshthakur90/StudentManagementSystem/assets/54414821/e10ebf22-6c93-467a-9f44-7f007634e5af)
 <br>
 <h1>Technologies Used</h1>
 <h2>Backend Technology</h2>
